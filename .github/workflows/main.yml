@@ -1,4 +1,4 @@
-name: twitterbot  
+name: main
 on:   
 push:    
 branches:    
